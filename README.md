@@ -1,10 +1,6 @@
 <div align=center>
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjaegyeong&show_icons=true&theme=radical)
-    
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjg223)](https://solved.ac/hjg223/)
-
-    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjaegyeong&show_icons=true&theme=radical)   
 
 </div>
 
@@ -31,3 +27,8 @@
         - 동아리 공학설계 경진대회 은상
         - 인하 종합설계 경진대회 은상
         - kaggle 인공지능 모델 개발 대회 우수상
+
+
+##
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjg223)](https://solved.ac/hjg223/)
