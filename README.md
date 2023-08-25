@@ -28,7 +28,8 @@
         - 동아리 공학설계 경진대회 은상
         - 인하 종합설계 경진대회 은상
         - kaggle 인공지능 모델 개발 대회 우수상
-
+    - **2023년**
+        - INHA SW NET-zero 공동해커톤 장려상
 
 ##
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjg223)](https://solved.ac/hjg223/)
