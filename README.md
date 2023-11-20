@@ -30,7 +30,7 @@
         - kaggle 인공지능 모델 개발 대회 우수상
     - **2023년**
         - INHA SW NET-Zero 공동해커톤 장려상
-        - 정보처리기사 자격증 취득 
+        - 정보처리기사 자격증 취득
 
 ##
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjg223)](https://solved.ac/hjg223/)
