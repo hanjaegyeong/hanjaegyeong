@@ -24,13 +24,13 @@
         - [성균관대 창의적 종합설계 경진대회 은상](https://youtu.be/SuggPynQ7nY?si=KlwoMRUI10fb0sDr)
         - [종합설계 경진대회 한국테크노파크 진흥회상](https://youtu.be/SuggPynQ7nY?si=KlwoMRUI10fb0sDr)
     - **2022년**
-        - 인하 슈퍼챌린지 메이커톤 우수상
-        - 동아리 공학설계 경진대회 은상
-        - 인하 종합설계 경진대회 은상
+        - [인하 슈퍼챌린지 메이커톤 우수상](https://youtu.be/ER76PGXGiXo)
+        - [동아리 공학설계 경진대회 은상](https://youtu.be/2nWhLpE0Upg)
+        - [인하 종합설계 경진대회 은상](https://youtu.be/fS-tnMOR3YU)
         - kaggle 인공지능 모델 개발 대회 우수상
     - **2023년**
         - INHA SW NET-Zero 공동해커톤 장려상
-        - 정보처리기사 자격증
+        - 정보처리기사 취득
     - **2024년**
         - 삼성 청년 SW 아카데미(SSAFY) 합격
 
