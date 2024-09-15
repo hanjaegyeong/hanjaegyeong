@@ -33,7 +33,7 @@
         - 정보처리기사 취득
     - **2024년**
         - 삼성 청년 SW 아카데미(SSAFY) 합격
-
+ 
 
 ##
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjg223)](https://solved.ac/hjg223/)
