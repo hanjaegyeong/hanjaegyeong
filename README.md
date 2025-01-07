@@ -29,6 +29,7 @@
         - [인하 종합설계 경진대회 은상](https://youtu.be/fS-tnMOR3YU)
         - kaggle 인공지능 모델 개발 대회 우수상
     - **2023년**
+        - K-Software Bootcamp 헬스케어분야 프로젝트 우수상
         - INHA SW NET-Zero 공동해커톤 장려상
         - 정보처리기사 취득
     - **2024년**
